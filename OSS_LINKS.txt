@@ -1,0 +1,11 @@
+Pygame 2.6.1 | 2D window, drawing, input, frame clock | LGPL-2.1
+https://github.com/pygame/pygame
+https://github.com/pygame/pygame/blob/main/docs/LGPL.txt
+
+OpenSimplex Python 0.4.5.1 | seeded coherent 2D noise for cave pockets, rock texture and break probability | MIT
+https://code.larus.se/lmas/opensimplex
+https://pypi.org/project/opensimplex/
+
+Both libraries are installed as packages and imported without modification.
+All gameplay, map generation rules, UI, drawings, and enemy behavior in game.py
+are project code. The earlier HTML prototype is a separate concept prototype.
